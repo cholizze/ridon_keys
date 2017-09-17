@@ -1,1 +1,1 @@
-PRODUCT_DEFAULT_DEV_CERTIFICATE:=~/.ridon-certs/releasekey
+PRODUCT_DEFAULT_DEV_CERTIFICATE:=$(HOME)/.ridon-certs/releasekey
