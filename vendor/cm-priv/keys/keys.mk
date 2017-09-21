@@ -1,1 +1,2 @@
 PRODUCT_DEFAULT_DEV_CERTIFICATE:=$(HOME)/.ridon-certs/otakey
+PRODUCT_EXTRA_RECOVERY_KEYS:=$(HOME)/.ridon-certs/ridon
